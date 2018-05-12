@@ -1,0 +1,35 @@
+_repo: Sophia--A-Romance_39168
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Weyman, Stanley John
+    alias: Weyman, Stanley J. (Stanley John)
+    birthdate: 1855
+    deathdate: 1928
+    gutenberg_agent_id: '742'
+    url: http://www.gutenberg.org/2009/agents/742
+    wikipedia: http://en.wikipedia.org/wiki/Stanley_J._Weyman
+description: 'It may be classified as a romance, but the heroine of Stanley J. Weyman''s
+  classic novel Sophia is no shrinking violet chomping on bonbons while waiting around
+  to be saved by her Prince Charming. This action-packed story offers readers the
+  best of both worlds: delightful lessons in the dos and don''ts of fashionable London
+  society circa 1742, plus a page-turning series of events and plenty of plot twists.'
+gutenberg_issued: '2012-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39168'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- George II, 1727-1760 -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'England -- Social life and customs -- 18th century -- Fiction'
+- !lcc 'PR'
+title: 'Sophia: A Romance'
+url: http://www.gutenberg.org/ebooks/39168
